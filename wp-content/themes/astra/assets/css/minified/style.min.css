@@ -593,7 +593,7 @@ body {background-color: #fff;}
 .ast-header-break-point .header-main-layout-3 .site-branding {padding-left: 1em;justify-content: flex-end;}
 .ast-header-break-point .header-main-layout-3 .main-navigation {padding-right: 0;}
 .ast-logo-title-inline .ast-site-identity {-js-display: inline-flex;display: inline-flex;vertical-align: middle;align-items: center;}
-.ast-logo-title-inline .site-logo-img {padding-right: 15em;}
+.ast-logo-title-inline .site-logo-img {padding-right: 10em;}
 .ast-logo-title-inline.header-main-layout-2 .site-logo-img+.ast-site-title-wrap .site-title {justify-content: flex-start;}
 @media (max-width:544px) {.site-branding img, .site-header .site-logo-img .custom-logo-link img {max-width: 100%;}
 	.ast-header-custom-item-outside .ast-mobile-header-stack .site-branding {padding-right: 0;}
